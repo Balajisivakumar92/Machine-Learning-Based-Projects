@@ -1,2 +1,3 @@
 # Machine-Learning-Based-Projects
-ML and AI appended me into magical List of AI & ML : ),getting error while pop : (
+This all my personal projects which is baced on NLP.
+Here i uploaded my code and dataset which i have used for this projects.
